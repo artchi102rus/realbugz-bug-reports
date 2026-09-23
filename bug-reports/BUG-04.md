@@ -7,7 +7,7 @@
 * **Severity:** Medium
 
 ## Steps to Reproduce:
-1. Open https://realbugz.com.
+1. Open https://www.realbugz.com/en/task-article.
 2. Scroll down to the "Share article" section at the bottom.
 3. Click on any social media button (Facebook, Telegram, etc.).
 
