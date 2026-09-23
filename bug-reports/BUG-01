@@ -17,4 +17,4 @@ The text block should be correctly formatted according to standard grammar rules
 One of the text blocks contains multiple formatting issues: words are written together without spaces, there are massive gaps (excessive spaces) between other words, and an excessive number of commas is used in one place.
 
 ## Attachments:
-(bug01_screenshot.png)
+![](bug01_screenshot.png)
