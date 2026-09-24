@@ -19,6 +19,9 @@ The field is missing both the asterisk indicator and validation constraints, all
 
 
 ## Attachments:
+### Video demonstration:
 https://github.com/user-attachments/assets/b0dc6b63-f83c-4f4b-8a0b-d489e9cd2544
+
+### Actual Result Screenshot:
 ![](bug08.1_screenshot.png)
 ![](bug08.2_screenshot.png)
