@@ -7,7 +7,7 @@
 * **Severity:** Low
 
 ## Steps to Reproduce:
-Prerequisites: Read the task requirements on https://www.realbugz.com/en/requirements-for-form
+**Prerequisites:** Read the task requirements on https://www.realbugz.com/en/requirements-for-form
 1. Open https://www.realbugz.com/en/task-form.
 2. Fill out all required fields with valid data.
 3. Scroll to the bottom.
