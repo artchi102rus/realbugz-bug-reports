@@ -7,6 +7,7 @@
 * **Severity:** Low
 
 ## Steps to Reproduce:
+Prerequisites: Read the task requirements on https://www.realbugz.com/en/requirements-for-form
 1. Open https://www.realbugz.com/en/task-form
 2. Scroll down to the bottom of the page.
 3. Locate the form clear button.
@@ -17,7 +18,6 @@ Clicking the clear button should display a confirmation message that data has be
 
 ## Actual Result:
 Data is cleared without any notification or confirmation message.
-
 
 ## Attachments:
 ![](bug05_screenshot.png)
