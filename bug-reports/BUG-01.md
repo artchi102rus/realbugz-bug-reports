@@ -7,6 +7,7 @@
 * **Severity:** Medium
 
 ## Steps to Reproduce:
+**Prerequisites:** Read the task requirements on https://www.realbugz.com/en/requirements-for-article
 1. Open https://www.realbugz.com/en/task-article.
 2. Scroll down to the main text body and examine the text paragraphs.
 
