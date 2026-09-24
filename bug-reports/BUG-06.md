@@ -7,7 +7,7 @@
 * **Severity:** Low
 
 ## Steps to Reproduce:
-Prerequisites: Read the task requirements on https://www.realbugz.com/en/requirements-for-form
+**Prerequisites:** Read the task requirements on https://www.realbugz.com/en/requirements-for-form
 1. Open https://www.realbugz.com/en/task-form.
 2. Scroll down to the "Preferred Expedition Region" field.
 3. Observe the field label.
