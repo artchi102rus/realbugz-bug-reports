@@ -7,6 +7,7 @@
 * **Severity:** Low
 
 ## Steps to Reproduce:
+Prerequisites: Read the task requirements on https://www.realbugz.com/en/requirements-for-form
 1. Open https://www.realbugz.com/en/task-form.
 2. Fill out all required fields with valid data.
 3. Scroll to the bottom.
@@ -18,7 +19,6 @@ All inputs and selected options should reset to empty defaults after a successfu
 
 ## Actual Result:
 Input fields retain the previously entered data after submission.
-
 
 ## Attachments:
 ### Video demonstration:
