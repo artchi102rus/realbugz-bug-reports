@@ -7,6 +7,7 @@
 * **Severity:** Medium
 
 ## Steps to Reproduce:
+**Prerequisites:** Read the task requirements on https://www.realbugz.com/en/requirements-for-form
 1. Open https://www.realbugz.com/en/task-form.
 2. Locate the "Upload Passport/ID*" field.
 3. Select and upload a file that is larger than 5 MB (e.g., 6 MB JPG or PDF).
@@ -17,7 +18,6 @@ The input should reject files larger than 5 MB, block form submission, and show 
 
 ## Actual Result:
 Files larger than 5 MB are successfully uploaded and the form submits without validation warnings.
-
 
 ## Attachments:
 ### Video demonstration:
