@@ -21,6 +21,10 @@ Input fields retain the previously entered data after submission.
 
 
 ## Attachments:
+### Video demonstration:
+https://github.com/user-attachments/assets/de4dc3c2-d9bc-4d23-b461-faab1543851f
+
+### Actual Result Screenshot:
 ![](bug07.1_screenshot.png)
 ![](bug07.2_screenshot.png)
-![](bug07_video.mp4)
+
