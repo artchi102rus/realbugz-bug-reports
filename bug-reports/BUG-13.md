@@ -7,6 +7,7 @@
 * **Severity:** Medium
 
 ## Steps to Reproduce:
+**Prerequisites:** Read the task requirements on https://www.realbugz.com/en/requirements-for-form
 1. Open https://www.realbugz.com/en/task-form.
 2. Locate the "Select your desired salary per week ($)" range slider.
 3. Drag the slider controller all the way to the left (value decreases to -1).
@@ -18,7 +19,6 @@ The salary field should reject negative numeric inputs. The system should block 
 
 ## Actual Result:
 The field accepts negative values without any prevention. The form is successfully submitted with a negative salary value.
-
 
 ## Attachments:
 ![](bug13.1_screenshot.png)
