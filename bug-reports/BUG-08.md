@@ -7,7 +7,7 @@
 * **Severity:** Medium
 
 ## Steps to Reproduce:
-Prerequisites: Read the task requirements on https://www.realbugz.com/en/requirements-for-form
+**Prerequisites:** Read the task requirements on https://www.realbugz.com/en/requirements-for-form
 1. Open https://www.realbugz.com/en/task-form.
 2. Fill out all fields with valid data except "Preferred Role in the Expedition" (leave it empty).
 3. Click the submit button.
