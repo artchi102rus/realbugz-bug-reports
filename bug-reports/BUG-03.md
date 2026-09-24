@@ -7,6 +7,7 @@
 * **Severity:** Low
 
 ## Steps to Reproduce:
+**Prerequisites:** Read the task requirements on https://www.realbugz.com/en/requirements-for-article
 1. Open Open https://www.realbugz.com/en/task-article.
 2. Scroll down to the illustration section.
 
@@ -15,7 +16,6 @@ The illustration image should load correctly. The caption text should be placed 
 
 ## Actual Result:
 The image fails to load, and a default broken image placeholder icon is displayed instead. This placeholder icon directly overlaps the caption text underneath it, making it unreadable.
-
 
 ## Attachments:
 ![](bug03_screenshot.png)
