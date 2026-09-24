@@ -7,7 +7,7 @@
 * **Severity:** Low
 
 ## Steps to Reproduce:
-Prerequisites: Read the task requirements on https://www.realbugz.com/en/requirements-for-form
+**Prerequisites:** Read the task requirements on https://www.realbugz.com/en/requirements-for-form
 1. Open https://www.realbugz.com/en/task-form.
 2. Locate the "Select your desired salary per week ($)" field.
 3. Click the up or down arrows (spinner controls) to change the value.
