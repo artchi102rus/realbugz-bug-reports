@@ -11,7 +11,7 @@ This repository contains practical QA testing work performed on the **RealBugz**
 * **OS:** Windows 11
 * **Browser:** Google Chrome
 * **API Tool:** Postman
-* **Bug Reporting Tools:** Chrome DevTools, Lightshot
+* **Bug Reporting Tools:** Screenshots, Screen Recording, Lightshot
 * **Version Control:** GitHub
 * **Data Format:** JSON
 
