@@ -51,4 +51,53 @@ The API tests cover CRUD operations, request and response validation, HTTP statu
 | ---------------- | -----: |
 | Total Test Cases |     10 |
 | Passed           |     10 |
-| Fai              |        |
+| Failed           |      0 |
+
+### 📋 API Testing
+
+[View all 10 API Test Cases](https://github.com/artchi102rus/realbugz-bug-reports/tree/api-testing)
+
+---
+
+## 🎯 Skills Demonstrated
+
+* Manual QA Testing
+* Bug Reporting
+* REST API Testing
+* Postman
+* CRUD Testing
+* Functional Testing
+* UI / Visual Testing
+* Content Testing
+* JSON Validation
+* HTTP Status Code Validation
+* API Resource Verification
+* Test Documentation
+* Git & GitHub
+
+---
+
+## 📁 Portfolio Structure
+
+```text
+realbugz-bug-reports
+│
+├── README.md
+│
+├── bug-reports/
+│   ├── BUG-01
+│   ├── BUG-02
+│   ├── ...
+│   └── BUG-15
+│
+└── api-testing/
+    ├── API-README.md
+    ├── 01-create-expedition.md
+    ├── 02-update-expedition.md
+    ├── ...
+    └── 10-delete-expedition.md
+```
+
+---
+
+*Prepared by artchi102rus.*
